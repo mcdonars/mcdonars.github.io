@@ -14,6 +14,6 @@ comments: false
 
 <p>Robert McDonald</p>
 <p>Virginia</p>
-<a href="mailto:mcdonars@dukes.jmu.edu"></a>
+<a href="mailto:mcdonars@dukes.jmu.edu">mcdonars@dukes.jmu.edu</a>
 
 [Resume](https://github.com/mcdonars/mcdonars.github.io/blob/master/mcdonars_resume.pdf){: .btn}
