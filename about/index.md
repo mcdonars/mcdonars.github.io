@@ -6,30 +6,14 @@ date: 2018-09-3
 comments: false
 ---
     
-<center><a href="http://github.com/mcdonars"><b>Robert Sean McDonald</b></a> I am a Senior Computer Information Systems Major at James Madison University. I also enjoy Cycling, Weight training, and learning new things! I will be graduating this upcoming December 2018.</center>
+<center><a href="http://github.com/mcdonars"><b>Robert Sean McDonald</b></a></center>
+<center> I am a Senior Computer Information Systems Major at James Madison University. I also enjoy Cycling, Weight training, and learning new things! I will be graduating this upcoming December 2018.</center>
 
 ## Contact Details
 
-Robert McDonald
-Virginia
 
-mcdonars@dukes.jmu.edu
+<p>Robert McDonald</p>
+<p>Virginia</p>
+<a href="mailto:mcdonars@dukes.jmu.edu"></a>
 
 [Resume](https://github.com/mcdonars/mcdonars.github.io/blob/master/mcdonars_resume.pdf){: .btn}
-
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[LinkedIn](https://linkedin.com/in/mcdonars){: .btn}
