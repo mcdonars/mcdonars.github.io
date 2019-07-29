@@ -2,12 +2,12 @@
 layout: page
 title: About
 tags: [about]
-date: 2018-09-3
+date: 2019-7-29
 comments: false
 ---
     
-<center><a href="http://github.com/mcdonars"><b>Robert Sean McDonald</b></a></center>
-<center> I am a Senior Computer Information Systems Major at James Madison University. I also enjoy Cycling, Weight training, and learning new things! I will be graduating this upcoming December 2018.</center>
+<center><a href="http://github.com/mcdonars"><b>Robert McDonald</b></a></center>
+<center> I graduated from James Madison University with a B.B.A in Computer Information Systems. I enjoy tinkering and learning new things! I also enjoy road cycling and weight training. My current role is Server Administrator at Dynamic Aviation. </center>
 
 ## Contact Details
 
